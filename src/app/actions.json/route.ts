@@ -18,5 +18,4 @@ export const GET = async () => {
         headers: createActionHeaders(),
     });
 };
-
 export const OPTIONS = GET;
